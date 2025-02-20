@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Ryan, I'm 13 years old, and I love coding. In my time coding, I have learned how to make apps, build websites, create artificial intelligence using Python, build cool projects with Arduinos, develop for a Minecraft server (75,000+ members), run a tech support firm, and make games using Godot and Unreal Engine.<br><br>
+Hi my name is Ryan, I'm 13 years old, and I love coding. In my time coding, I have learned how to make apps, build websites, create artificial intelligence using Python, build cool projects with Arduinos, develop for a Minecraft server (75,000+ members), run a tech support firm (iztech.xyz), and make games using Godot and Unreal Engine.<br><br>
 
 
 ## 🌐 Socials:
