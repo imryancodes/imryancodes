@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hi my name is Ryan, I'm 13 years old, and I love coding. In my time coding, I have learned how to make apps, build websites, create artificial intelligence using Python, build cool projects with Arduinos, develop for a Minecraft server (75,000+ members), run a tech support firm (iztech.xyz), and make games using Godot and Unreal Engine.<br><br>
-
-
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imryancodes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryan@ryancodes.xyz) 
 
